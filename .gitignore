@@ -18,3 +18,7 @@ bin
 
 # Coverage file
 *.coverprofile
+
+tests/apitests/python/__pycache__/
+tests/apitests/python/library/__pycache__/
+cycloneclient/
